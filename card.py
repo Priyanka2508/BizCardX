@@ -32,17 +32,6 @@ selected = option_menu(None, ["Home","Upload & Extract","Modify"],
 # INITIALIZING THE EasyOCR READER
 reader = easyocr.Reader(['en'])
 
-# CONNECTING WITH MYSQL DATABASE
-
-# mydb = sql.connect(host="localhost",
-#                    user="root",
-#                    password="priyanka25",
-#                    database= "bizcardx_db",
-#                    auth_plugin ="mysql_native_password",
-#                   )
-# mycursor = mydb.cursor(buffered=True)
-# mycursor.execute("create database bizcardx_db")
-
 # Connect to SQLite database (creates a new database if it doesn't exist)
 connection = sqlite3.connect('bizcard.db')
 
