@@ -18,3 +18,8 @@ ABOUT:
 3. In the update and Migrate tab, it provides access to update or modify or delete the selected card details.
 4. updated details can be viewed after making the changes.
 
+The app was launched using Google Collab the following command helps to do the same.
+
+!wget -q -O - ipv4.icanhazip.com
+
+!streamlit  run card.py & npx localtunnel --port 8501
