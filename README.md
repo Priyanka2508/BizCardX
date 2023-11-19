@@ -1,10 +1,5 @@
 # BizCardX
-Extracting Business cards with OCR
-
-Technologies used:
-OCR,
-Streamlit,
-SQLite
+Extracting Business cards with OCR. This app will help in extracting relevant information from the card just by uploading it using easyOCR. The uploaded data can be viewed, updated and deleted in this app.
 
 Packages Used:
 
