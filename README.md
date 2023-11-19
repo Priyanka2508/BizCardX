@@ -6,11 +6,14 @@ OCR,
 Streamlit,
 SQLite
 
-Packaages:
+Packages Used:
 
 1.Pandas
+
 2.SQLite3
-3.Stremalit
+
+3.Streamlit
+
 4.EasyOCR
 
 ABOUT:
