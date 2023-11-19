@@ -1,7 +1,21 @@
 # BizCardX
 Extracting Business cards with OCR
 
-**Technologies used: **
-OCR
-Streamlit
+Technologies used:
+OCR,
+Streamlit,
 SQLite
+
+Packaages:
+1.Pandas
+2.SQLite3
+3.Stremalit
+4.EasyOCR
+
+ABOUT:
+
+1. The app allows to upload the business card and view the images with data being extracted.
+2. Option to upload this card details into the database
+3. In the update and Migrate tab, it provides access to update or modify or delete the selected card details.
+4. updated details can be viewed after making the changes.
+
